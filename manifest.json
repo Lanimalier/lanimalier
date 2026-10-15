@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "description": "Registre citoyen d'animaux perdus et trouvés",
+  "display": "standalone",
+  "icons": [
+    {
+      "sizes": "any",
+      "src": "./favicon.svg",
+      "type": "image/svg+xml"
+    }
+  ],
+  "name": "L'animalier",
+  "short_name": "Animalier",
+  "start_url": "./",
+  "theme_color": "#16a34a"
+}
